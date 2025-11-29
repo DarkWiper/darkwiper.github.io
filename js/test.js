@@ -6,7 +6,7 @@
 
 // Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
 var textArray = [
-  " This website is under construction ......",
+  "This website is on the way :)",
 ];
 // Speed (in milliseconds) of typing.
 var speedForward = 100, //Typing Speed
